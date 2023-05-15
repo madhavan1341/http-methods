@@ -1,2 +1,7 @@
-# http-methods
-http methods
+GET
+POST
+PUT
+DELETE
+PATCH
+HEAD
+OPTIONS
